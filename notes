@@ -1,0 +1,16 @@
+✅ Promise.all()
+
+Waits for all promises
+Rejects immediately if ONE fails
+
+✅ Promise.allSettled()
+
+Waits for all, success or failure
+
+✅ Promise.race()
+
+First settled (resolve OR reject) wins
+
+✅ Promise.any()
+
+First successful promise wins
